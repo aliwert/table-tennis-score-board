@@ -1,11 +1,8 @@
 const player1 = document.querySelector(".player1");
 const player2 = document.querySelector(".player2");
 const reset = document.querySelector(".reset");
-
 const inc1 = document.querySelector(".inc1");
-
 const inc2 = document.querySelector(".inc2");
-
 const winner = document.getElementById("winner");
 
 reset.addEventListener("click", () => {
